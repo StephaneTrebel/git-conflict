@@ -1,0 +1,7 @@
+= About
+
+This repository is quite simple: it's for having a handy Git conflict at hand, so that I can show/practice how it can be resolved with various tools.
+
+The base branch is `trunk` and has some commits, while the `conflict` branch has some commits from trunk but has diverged, hence a Git conflict 😉
+
+If this repository has helped you, or if you have ideas on how to improve it, feel free to send me a message or create an issue 👋
